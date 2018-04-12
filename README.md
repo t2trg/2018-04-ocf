@@ -6,11 +6,11 @@ Repository for April 2018 phone call with OCF
 
 ## Draft Agenda:
 
-* "[Dynamic Resource Linking for Constrained RESTful Environments](https://tools.ietf.org/html/draft-ietf-core-dynlink-05)" intro and status (Michael Koster)
-* Discussion (All)
+* "[Dynamic Resource Linking for CoRE](https://tools.ietf.org/html/draft-ietf-core-dynlink-05)" intro and status (Michael Koster)
+* Link Bindings and OCF (All)
  
 * "[CoRE Resource Directory](https://tools.ietf.org/html/draft-ietf-core-resource-directory-13)" intro & status (Christian Amsüss)
-* Discussion (All)
+* Convergence of OCF and IETF RD (All)
  
 ## Call-in info:
 
