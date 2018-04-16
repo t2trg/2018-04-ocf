@@ -17,7 +17,6 @@ Repository for April 2018 phone call with OCF
 [Join WebEx meeting](https://openconnectivity.webex.com/openconnectivity/j.php?MTID=m72ec8db07d4259a485c36e2cd32ea163)
 
 Meeting number (access code): 926 776 852      
-Host key: 958371         
 Meeting password: 1234    
  
 Join by phone  
